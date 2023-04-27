@@ -1,3 +1,2 @@
-def str_func(words):
-    '''this function makes strings in capital letters''' 
+def str_func(words): 
     return words.upper
